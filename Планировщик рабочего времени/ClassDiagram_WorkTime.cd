@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Планировщик_рабочего_времени.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAABAQAASAAAAGAAAoAAAAEEQBAAAACAA=</HashCode>
+      <FileName>Авторизация.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.ГлавнаяПланировщик">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASQQAIMgoDmKBBODoAOGMGkTAAFsIAgAAHAACUQBAAc=</HashCode>
+      <FileName>ГлавнаяПланировщик.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.ГлавнаяРуководитель" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQQAAkgICAAAKAAAACGACEDAAAGIEgAQREACAAEBCE=</HashCode>
+      <FileName>ГлавнаяРуководитель.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Задания">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQAIIAgDEIBYOSIACFIAAWAAAYAAAAAGAJAAYBAAY=</HashCode>
+      <FileName>Задания.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Напоминания" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBIIAgDEIBBODIACEMAESACAYQAACAGAAhQQBCAQ=</HashCode>
+      <FileName>Напоминания.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Настройка">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACFAABABACGAABAAAQKAAAEGAAAIAAkAEAABAAQAAAA=</HashCode>
+      <FileName>Настройка.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Отчет" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgZgCAKAFIAAAAgCAAAkCAAAAAgABAIAAAAAAAAA=</HashCode>
+      <FileName>Отчет.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Период">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABACAACAAAACAAAIAgAAAEAAAAAAAAA=</HashCode>
+      <FileName>Период.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Пользователи">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCFQAJABgDGABAOAICKEIACWAAAAAAEAEAADAAQhAAA=</HashCode>
+      <FileName>Пользователи.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.ПросмотрАктивностей">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAJKAgDEIBAOTIAGEIAAWQABYAAAAAGABAAUgAAQ=</HashCode>
+      <FileName>ПросмотрАктивностей.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.Регистрация">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACFAABABACOAQBAAACKAAAAGAAAYAAEAEGABAAQAAAA=</HashCode>
+      <FileName>Регистрация.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.СменаПароля">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACEAABAAAACAAgEGAAAIAAAAEEABAAAAAAA=</HashCode>
+      <FileName>СменаПароля.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.СозданиеПлана">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>СозданиеПлана.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.СправочникДолжностей">
+    <Position X="5.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgDGABAOAIAaGICASAAAAAABAAAAAABQBAAA=</HashCode>
+      <FileName>СправочникДолжностей.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Планировщик_рабочего_времени.ТелефоннаяКнига">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAMgAAAADEIBACBAACDAAACAAgAAAAAAAAAAAQAAAQ=</HashCode>
+      <FileName>ТелефоннаяКнига.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
